@@ -1,13 +1,10 @@
 locals {
 
-  app_service_template = "%s%s-%s-%s-%s" # org, project, env, scope, name
-
   parsed_scope       = replace(var.attributes.scope, "_", "-")                                                          # For URL support
   parsed_scope_short = replace(replace(var.attributes.scope_short, "_", var.seperator_short), "-", var.seperator_short) # For URL support
   parsed_name        = replace(var.attributes.name, "_", "-")                                                           # For URL support
   org_with_project   = format("%s%s", var.attributes.org, var.attributes.project)
-
-
+  
   resource_types = {
     static                  = local.parsed_name
     static_app_service      = local.parsed_name
