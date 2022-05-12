@@ -19,7 +19,7 @@ locals {
     }
     super_cat = {
       name = ""
-      type = "storage_account"
+      type = "resource_group"
     }
   }
 
