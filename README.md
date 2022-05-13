@@ -6,5 +6,5 @@ Cloud resource name is one of the most troublesome tasks. When it is created, it
 
 **Event**: Cloud Native Night bangkok
 
-**Slide**: https://docs.google.com/presentation/d/12hmwaoyXoqfBWNcNw7GP_hzOxJp3q4Y8TUFxRBKvyrA/edit?usp=sharing
-**Recording Session on Youtube**: https://www.youtube.com/watch?v=ySFZAVF0mpU
+- **Slide**: https://docs.google.com/presentation/d/12hmwaoyXoqfBWNcNw7GP_hzOxJp3q4Y8TUFxRBKvyrA/edit?usp=sharing
+- **Recording Session on Youtube**: https://www.youtube.com/watch?v=ySFZAVF0mpU
